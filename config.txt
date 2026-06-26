@@ -1,4 +1,4 @@
-vless://00000000-0000-0000-0000-000000000000@1.1.1.1:443?encryption=none&security=none&type=tcp#%F0%9F%94%AE%20Updated%3A%202026-06-26%2021%3A43%3A19%20UTC%20(34%20Nodes)
+vless://LETIRANBREATH@t.me/letiranbreath:443?encryption=none&security=none&type=tcp#%F0%9F%8C%9F%20Updated%3A%202026-06-26%2021%3A48%3A35%20UTC%20(34%20Nodes)
 vless://f7c806bc-98a8-4d18-8dc1-40213b100ba9@45.90.58.58:81?security=tls&type=ws&host=f5x2euvh.i87mvem8f7i3yb8tqod1.workers.dev&fp=chrome&sni=f5x2euvh.i87mvem8f7i3yb8tqod1.workers.dev&path=%2F%3Fed%3D2560&encryption=none#🇮🇷CH@Letiranbreath
 vless://f7c806bc-98a8-4d18-8dc1-40213b100ba9@104.168.167.197:27213?security=tls&type=ws&host=f5x2euvh.i87mvem8f7i3yb8tqod1.workers.dev&fp=chrome&sni=f5x2euvh.i87mvem8f7i3yb8tqod1.workers.dev&path=%2F%3Fed%3D2560&encryption=none#🇮🇷US@Letiranbreath
 vless://f7c806bc-98a8-4d18-8dc1-40213b100ba9@144.24.87.69:50001?security=tls&type=ws&host=f5x2euvh.i87mvem8f7i3yb8tqod1.workers.dev&fp=chrome&sni=f5x2euvh.i87mvem8f7i3yb8tqod1.workers.dev&path=%2F%3Fed%3D2560&encryption=none#🇮🇷KR@Letiranbreath
